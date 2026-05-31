@@ -1,6 +1,6 @@
 export default function FeaturedWriteupsSection() {
   return (
-    <section className="px-6 py-20">
+    <section id="writeups">
       <div className="mx-auto max-w-6xl">
         <h2 className="mb-4 text-3xl font-bold">
           From Struggles to Structured Lessons

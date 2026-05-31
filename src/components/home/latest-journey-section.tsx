@@ -1,6 +1,9 @@
 export default function LatestJourneySection() {
   return (
-    <section className="border-t border-slate-800 bg-slate-950">
+    <section
+  id="journey"
+  className="border-t border-slate-800 bg-slate-950"
+>
       <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
         <header className="mb-8 flex flex-col gap-2">
           <h2 className="text-lg font-semibold tracking-tight text-slate-50 sm:text-xl">
